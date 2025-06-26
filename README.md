@@ -100,7 +100,7 @@ This solution demonstrates how **no-code tools** can solve real-world business p
 
 ---
 
-## 👀 Demo Screenshot (Optional)
+## 👀 Demo Screenshot
 
 > *screenshot coming soon*
 
@@ -110,7 +110,7 @@ This solution demonstrates how **no-code tools** can solve real-world business p
 
 **Aditya Sagave**  
 Data Science graduate – * Macquarie University*  
-✉️ [adityasagave@gmail.com](mailto: adityasagave@gmail.com)  
+✉️ [adityasagave@gmail.com]
 📞 +61 410 806 258
 
 ---
