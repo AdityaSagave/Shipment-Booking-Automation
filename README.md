@@ -102,16 +102,16 @@ This solution demonstrates how **no-code tools** can solve real-world business p
 
 ## 👀 Demo Screenshot (Optional)
 
-> *(Add a screenshot of the Power Automate flow or sample UI input dialog here if needed)*
+> *screenshot coming soon*
 
 ---
 
 ## 📫 Contact
 
 **Aditya Sagave**  
-Customer Services Representative – *Landauer Australasia*  
-✉️ [aditya.sagave@landauer.com](mailto:aditya.sagave@landauer.com)  
-📞 +612 8651 4000  
+Data Science graduate – * Macquarie University*  
+✉️ [adityasagave@gmail.com](mailto: adityasagave@gmail.com)  
+📞 +61 410 806 258
 
 ---
 
